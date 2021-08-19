@@ -8,3 +8,7 @@ Website that use Vue.js and Node.js
 - **[이호건](http://www.github.com/Hogeon-Lee)**
 - **[박지후](http://www.github.com/janett105)**
 - **[김서윤](http://www.github.com)**
+
+# 사용되는 라이브러리
+
+머터리얼 ui - vuetify
