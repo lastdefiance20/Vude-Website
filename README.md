@@ -7,7 +7,7 @@ Website that use Vue.js and Node.js
 - **[김기원](http://www.github.com/justkiwon)**
 - **[이호건](http://www.github.com/Hogeon-Lee)**
 - **[박지후](http://www.github.com/janett105)**
-- **[김서윤](http://www.github.com)**
+- **[김서윤](http://www.github.com/ksyeun)**
 
 # 사용되는 라이브러리
 
