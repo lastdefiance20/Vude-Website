@@ -11,7 +11,6 @@ Website that use Vue.js and Node.js
 
 # 사용되는 라이브러리
 
-머터리얼 ui - vuetify
 
 
 
