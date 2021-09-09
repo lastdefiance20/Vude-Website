@@ -6,6 +6,7 @@ import EventDetails1 from '../views/EventDetails1.vue';
 import ShowEvents from '../views/ShowEvents.vue'; 
 import MainPage from '../views/MainPage.vue'; 
 import EventList1 from '../views/EventList1.vue';
+import partnership from '../views/partnership.vue';
 
 
 const routes = [
@@ -31,7 +32,7 @@ const routes = [
   {
     path: '/partnership',
     name: 'partnership',
-    component: () => import('../views/partnership.vue')
+    component:partnership
   },
   {
     path:'/events/list1/details1',
