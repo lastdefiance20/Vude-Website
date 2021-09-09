@@ -1,8 +1,8 @@
 <template>
-<div>
-<web-header v-bind:header_props="scrollY"></web-header>
-<router-view></router-view>
- <Footer/>
+  <div>
+    <web-header v-bind:header_props="scrollY"></web-header>
+    <router-view></router-view>
+    <Footer/>
   </div>
 </template>
 
@@ -10,11 +10,10 @@
 import Footer from './components/Footer.vue';
 import WebHeader from './components/WebHeader.vue';
 
-
 export default{
   name: 'App',
   components: {
-    Footer,
+    'Footer': Footer,
     'WebHeader': WebHeader 
   },
   data(){
@@ -51,5 +50,29 @@ export default{
   font-family: 'Baloo Bhaina 2';
   src: url(./fonts/BalooBhaina2/BalooBhaina2-Regular.ttf) format("truetype");
 }
-</style>
+#body{
+  height:100px;
+}
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
 
+#nav {
+  padding: 30px;
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+#nav a {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+#nav a.router-link-exact-active {
+  color: #42b983;
+}
+</style>
