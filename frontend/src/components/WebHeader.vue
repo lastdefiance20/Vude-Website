@@ -17,7 +17,7 @@
       </nav>
       <!-- 헤더의 로고부분(center) -->
       <div id= "center">
-          <router-link to='/'><img src='../assets/letter.png' id='letter'><img src='../assets/logo 1.png' id='logo1'></router-link>
+          <router-link to='/'><img src='../assets/letter.png' id='letter'><img src='../assets/logo1.png' id='logo1'></router-link>
       </div>
       <!-- 헤더의 가장 아래 nav바 (bar_down)-->
       <nav class="bar_down">

@@ -14,7 +14,8 @@ import WebHeader from './components/WebHeader.vue';
 export default{
   name: 'App',
   components: {
-    Footer'WebHeader': WebHeader 
+    Footer,
+    'WebHeader': WebHeader 
   },
   data(){
     return{
