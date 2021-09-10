@@ -13,4 +13,7 @@ vue 3(preview)
 Router
 
 
+Babel
+
+
 place config in package.json
