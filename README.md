@@ -5,6 +5,12 @@ Website that use Vue.js and Node.js
 
 # version 합의봐라 여기서
 vue@cli 4.5.0
+
+
 vue 3(preview)
+
+
 Router
+
+
 place config in package.json
